@@ -1,0 +1,19 @@
+{
+    "itemDetails":{
+    "itemName":"Mac Book",
+    "quantity":"5",
+    "unitPrice":"2000",
+    "currency":"$",
+    "submissionDate":"2021-07-21" 
+    },
+    "supplier":{
+    "supplierName":"Adil",
+    "companyName":"Apple",
+    "email":"adilIsmail@apple.co",
+    "phoneCode":"+91",
+    "phoneNumber":"7007402688",
+    "countryId":"1",
+    "stateId":"1",
+    "cityId":"1"
+    }
+   }

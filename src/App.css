@@ -1,0 +1,27 @@
+.checkbox_main{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:20px;
+    padding: 20px;
+}
+.checkbox{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:10px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: #f1f1f1;
+    cursor: pointer;
+    
+}
+.MAinpage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    
+}

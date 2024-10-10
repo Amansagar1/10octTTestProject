@@ -1,0 +1,26 @@
+.nav_main {
+    display: flex;
+    background-color: #007AFF;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-between;
+    color: #ffff;
+
+}
+
+.nav_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+    color: #ffff;
+}
+.nav-profile {
+    display: flex;
+    width: 20px;
+    height: 20px;
+    background-color:  var(--Grays-White, #FFFFFF);
+    ;
+    border-radius: 50%;
+
+}
